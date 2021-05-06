@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Load d3.js v5 -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <link rel="stylesheet" href="style.css" />   
+  </head>
+  <body>
+
+     <!-- This is your chart's container -->
+    <div class="bar-chart-container"></div>
+
+    <!-- Tooltip Container-->
+    <div class="tooltip">
+      <div class="tip-header">
+        <h3></h3>
+      </div>
+      <div class="tip-body"></div>
+    </div>
+
+    <!-- Controls -->
+    <div class="controls">
+      <button data-name="distance">Distance</button>
+      <button data-name="duration">Temps</button>
+      <button data-name="speed">Vitesse</button>
+    </div>
+
+    <script src="app.js"></script>
+
+  </body>
+</html>

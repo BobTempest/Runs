@@ -1,0 +1,75 @@
+svg {
+  border: 1px solid #ccc;
+}
+
+body, text {
+  font-family: 'Segoe', sans-serif;
+}
+
+.axis .domain {
+  stroke: none;
+}
+
+.x .tick line {
+  stroke: white;
+}
+
+.tooltip {
+  position: fixed;
+  opacity: 0;
+  pointer-events: none;
+  background: #eee;
+  max-width: 200px;
+}
+
+.tip-header {
+  border-bottom: 2px solid white;
+  padding: 0.4rem 1rem;
+}
+
+.tip-body {
+  padding: 0.2rem 0;
+}
+
+h3,
+h4 {
+  font-size: 0.9em;
+  color: #555;
+  padding: 0;
+}
+
+h4 {
+  font-weight: normal;
+}
+
+.tip-info {
+  margin: 0;
+  padding: 0.3rem 1rem;
+}
+
+.tip-info:nth-of-type(even) {
+  background: #e0e0e0;
+}
+
+.controls {
+  position: fixed;
+}
+
+button {
+  outline: none;
+  color: #555;
+  border-color: #eee;
+  background: #fefefe;
+  padding: 3px 10px;
+  font-family: 'Segoe', sans-serif;;
+  transition: all 200ms;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #f7f7f7;
+}
+
+button:focus {
+  background: #e7e7e7;
+}

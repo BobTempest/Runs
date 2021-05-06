@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:geotracker="http://ilyabogdanovich.com/gpx/extensions/geotracker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="Geo Tracker 4.0.2.1750 for Android by Ilya Bogdanovich">
+  <metadata>
+    <name>26 nov. 2020 10:41:29</name>
+    <author>
+      <name>Enregistré par Geo Tracker pour Android de Ilya Bogdanovich</name>
+      <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    </author>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <time>2020-11-26T09:41:29.697Z</time>
+  </metadata>
+  <trk>
+    <name>26 nov. 2020 10:41:29</name>
+    <src>Enregistré par Geo Tracker pour Android de Ilya Bogdanovich</src>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <extensions>
+      <geotracker:meta>
+        <length>424.2</length>
+        <duration>1490016</duration>
+        <creationtime>2020-11-26T09:41:29.697Z</creationtime>
+        <activity>0</activity>
+      </geotracker:meta>
+    </extensions>
+    <trkseg>
+      <trkpt lat="48.863359" lon="2.428895">
+        <ele>153</ele>
+        <time>2020-11-26T09:41:32.089Z</time>
+        <extensions>
+          <geotracker:meta c="3.65" s="1.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863465" lon="2.428756">
+        <ele>153</ele>
+        <time>2020-11-26T09:41:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.37" s="1.54" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86346" lon="2.428907">
+        <ele>152</ele>
+        <time>2020-11-26T09:41:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="0.99" s="2.45" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863454" lon="2.429063">
+        <ele>152</ele>
+        <time>2020-11-26T09:41:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.12" s="2.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.8635" lon="2.42919">
+        <ele>151</ele>
+        <time>2020-11-26T09:41:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.17" s="2.57" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863537" lon="2.429332">
+        <ele>147</ele>
+        <time>2020-11-26T09:41:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.02" s="2.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863551" lon="2.429483">
+        <ele>146</ele>
+        <time>2020-11-26T09:41:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.44" s="2.14" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863585" lon="2.429644">
+        <ele>145</ele>
+        <time>2020-11-26T09:42:04.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.12" s="3.45" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86361" lon="2.429788">
+        <ele>147</ele>
+        <time>2020-11-26T09:42:08.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.43" s="1.95" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863599" lon="2.429944">
+        <ele>149</ele>
+        <time>2020-11-26T09:42:13.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.61" s="2.25" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863613" lon="2.43008">
+        <ele>149</ele>
+        <time>2020-11-26T09:42:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.43" s="2.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863617" lon="2.430231">
+        <ele>148</ele>
+        <time>2020-11-26T09:42:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.47" s="1.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863597" lon="2.430391">
+        <ele>150</ele>
+        <time>2020-11-26T09:42:27.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.82" s="2.3" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863553" lon="2.430525">
+        <ele>150</ele>
+        <time>2020-11-26T09:42:32.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.99" s="1.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.861751" lon="2.428218">
+        <ele>152</ele>
+        <time>2020-11-26T10:06:15.111Z</time>
+        <extensions>
+          <geotracker:meta c="6.07" s="1.37" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86165" lon="2.428168">
+        <ele>157</ele>
+        <time>2020-11-26T10:06:17.090Z</time>
+        <extensions>
+          <geotracker:meta c="1.16" s="0.48" />
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
